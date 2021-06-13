@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maclonok
 - 👀 I’m interested in csgo, osu! and more games and programs.
-- 🌱 I’m currently learning python, visual studio, and more.
+- 🌱 I’m currently learning python and more.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
