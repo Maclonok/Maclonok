@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Maclonok
-- 👀 I’m interested in csgo, osu! and more games and programs.
-- 🌱 I’m currently learning python and more.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Maclonok/Maclonok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
